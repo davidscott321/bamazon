@@ -14,27 +14,39 @@ Bamazon is a command line interface (CLI) application that allows users to purch
 
 Starting the application.
 
+
 ![Starting the application.](screenshots/1.png)
+
 
 Inserting data for the item ID and item quantity.
 
+
 ![Starting the application.](screenshots/2.png)
+
 
 The total price of the order is displayed after the order has been placed.
 
+
 ![Starting the application.](screenshots/3.png)
+
 
 The option 'Purchase more items.' has been selected by the user to purchase additional items.
 
+
 ![Starting the application.](screenshots/4.png)
+
 
 The option to exit Bamazon is highlighted using the arrow keys on a keyboard.
 
+
 ![Starting the application.](screenshots/5.png)
+
 
 The option to exit Bamazon has been exeucted.
 
+
 ![Starting the application.](screenshots/6.png)
+
 
 ###  Technologies Used
 
